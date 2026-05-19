@@ -1,0 +1,11 @@
+# Environment variables / Secrets
+**/.env
+**/.env.local
+
+# Production builds
+**/dist/
+**/build/
+
+# IDE and System files
+.vscode/
+.DS_Store
